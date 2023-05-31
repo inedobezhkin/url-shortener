@@ -1,0 +1,7 @@
+pydantic
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+validators
+pydantic[dotenv]
